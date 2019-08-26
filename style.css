@@ -1,0 +1,23 @@
+body, title {
+	font-size: 15px;
+	font-family: serif;
+	color: #400a34;
+}
+
+a {
+	font-style: bold;
+	text-decoration:underline overline;
+	color:#24730b;
+}
+
+.hover {
+	font-style: italic;
+	color::#a1ffe3;
+}
+
+.Visited {
+	font-style:italic;
+	color:#e3a529;
+}
+
+
