@@ -4,6 +4,26 @@ body, title {
 	color: #400a34;
 }
 
+body {
+	/*background color if the browser don't take the linear-gardient*/
+
+	background: #466368;
+	background: linear-gradient(#648880, #293f50);
+	background-image: url("https://66.media.tumblr.com/6bbd224414a5453121a7ef49e97d43fd/tumblr_oxyko2zfNE1wd2c69o3_500.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+p {
+	word-spacing: normal;
+}
+
+body {
+	max-width:90%;
+	margin: auto;
+}
+
 a {
 	font-style: bold;
 	text-decoration:underline overline;
@@ -20,4 +40,17 @@ a {
 	color:#e3a529;
 }
 
-
+q {
+	display: block;
+	margin-left: 400px;
+	font-size: 160%;
+	font-family: unset;
+	background-color: #f5f5f0;
+	border-inline-start-color: unset;
+	border-left: inset 3px;
+	border-color: firebrick;
+	box-sizing: border-box;
+	padding: 30px;
+	margin-top: 80px;
+	margin-bottom:80px;
+}
