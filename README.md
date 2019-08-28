@@ -15,4 +15,4 @@
 ![chinese sage](http://giphygifs.s3.amazonaws.com/media/OiCdmDO2221Ww/giphy.gif)
 
 
-###### >J.J *ou Jérémy Johnson*
+###### >J.J *ou Jérémy Johnson pour les intimes*
