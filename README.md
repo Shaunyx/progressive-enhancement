@@ -1,6 +1,6 @@
 # progressive-enhancement
 
-##### creation d'une page web, evoquant une histoire chinoise; le tout évoquant une manière d'accepter le problemes de la vie (?)
+##### creation d'une page web, evoquant une histoire chinoise; le tout évoquant une manière d'accepter les problemes de la vie (?)
 
 
 ##### réalisé à Bcode Central *the Johnson familly 2019*
@@ -13,3 +13,6 @@
 
 
 ![chinese sage](http://giphygifs.s3.amazonaws.com/media/OiCdmDO2221Ww/giphy.gif)
+
+
+###### >J.J *ou Jérémy Johnson*
