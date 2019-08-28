@@ -93,7 +93,7 @@ q {
 }
 
 .nice {
-	background-image: url("/home/user/Sprint-Html-Css/progressive-enhancement/img/bien.png");
+	background-image: url("../img/bien.png");
 	background-repeat: no-repeat;
 	background-size: 18px;
 	width:50%;
@@ -102,14 +102,14 @@ q {
 }
 
 .mean {
-	background-image: url("/home/user/Sprint-Html-Css/progressive-enhancement/img/mal.png");
+	background-image: url("../img/mal.png");
 	background-repeat: no-repeat;
 	background-size: 18px;
 	background-position: 260px;
 }
 
 .cat {
-	background-image: url("/home/user/Sprint-Html-Css/progressive-enhancement/img/chat.png");
+	background-image: url("../img/chat.png");
 	background-repeat: no-repeat;
 	background-size: 18px;
 	background-position: 300px;
