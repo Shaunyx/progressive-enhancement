@@ -1,6 +1,6 @@
 body, title {
+	font-family: 'Open Sans', sans-serif;
 	font-size: 15px;
-	font-family: serif;
 	color: #400a34;
 }
 
@@ -15,6 +15,7 @@ body {
 	background-size: cover;
 */
 }
+
 
 p {
 	word-spacing: normal;
@@ -56,6 +57,7 @@ q {
 	padding: 30px;
 	margin-top: 80px;
 	margin-bottom:80px;
+	overflow: auto;
 }
 /* coloration of farmer*/
 .farmer{
@@ -116,9 +118,23 @@ q {
 #doughnut {
 	width:400px;
 	height:300px;
+	float:right;
+	margin-left:30px;
+	clear: both;
 }
 
 #antifire {
+	float: right;
 	width:400px;
 	height:300px;
+	margin-left: 30px;
+	clear: both;
+}
+
+#chineseMan {
+	 float: right;
+	 width:400px;
+	 height: 300px;
+	 margin-top: 30px;
+	 clear: both;
 }
