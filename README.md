@@ -11,12 +11,9 @@
 
 -----------------------------------------------------------------------
 
-
 ##### Lien URL de la page web-github:
 
 [page web Chinois story]("")
-
-                    --------------------------------------------- 
 
 ![chinese sage](http://giphygifs.s3.amazonaws.com/media/OiCdmDO2221Ww/giphy.gif)
 
