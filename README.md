@@ -9,10 +9,14 @@
 
 ##### *un apperçu sur mon code avec inspecteur, ou bien juste voir ma page ? Il te suffit de cliqué sur le lien ci-dessous !*
 
+-----------------------------------------------------------------------
+
+
 ##### Lien URL de la page web-github:
 
 [page web Chinois story]("")
 
+                    --------------------------------------------- 
 
 ![chinese sage](http://giphygifs.s3.amazonaws.com/media/OiCdmDO2221Ww/giphy.gif)
 
