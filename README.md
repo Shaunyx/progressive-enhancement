@@ -20,7 +20,7 @@
 
 ##### Lien URL de la page web-github:
 
-[page web Chinois story]("https://shaunyx.github.io/progressive-enhancement/")
+[page web Chinois story](https://shaunyx.github.io/progressive-enhancement/)
 
 
 
